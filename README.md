@@ -1,6 +1,6 @@
 Sizy – Disk Usage Analyzer
 
-Sizy is a simple Python app that scans a folder and lists the largest items inside. Works on Windows, macOS, and Linux. Free and open for everyone.
+Sizy is a simple Python app that scans a folder and lists the largest items inside. Works on Windows, Free and open for everyone.
 
 Features
 Shows the top 10 largest files and folders in a folder.
@@ -74,3 +74,5 @@ Follow the on-screen instructions to scan any folder and see the largest items.
 ✅ Tip:
 
 Sizy is read-only, tiny (2 KB), and uses almost no CPU, RAM, or GPU. It’s safe to run on any computer with Python installed.
+
+(no linux and mac sorry but i don't know how to make for mac or linux it will work only for windows)
