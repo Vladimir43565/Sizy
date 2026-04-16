@@ -44,3 +44,5 @@ May skip protected system files
 
 Your disk gets full and you don’t know why?
 Sizy shows you exactly what’s using space.
+
+for more updates join https://discord.gg/tKJjqqmtds
